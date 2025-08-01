@@ -76,6 +76,7 @@ Page 2 - Appeals & Failures
 - 'Credit Monitoring July 25 Cleaned.csv' - Final cleaned dataset imported into Power BI
 - 'Credit_Page1.png' - Screenshot of the main dashboard page
 - 'Credit_Page2.png' - Screenshot of the appeals/errors page
+- 'Credit_Monitoring_2025.pdf' - PDF copy of the Power BI dashboard
 - README.md' - Project overview and documentation
 
 
