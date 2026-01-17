@@ -36,7 +36,7 @@ Power BI dashboard analysing internal credit audit data to monitor credit accura
 
 
 ## Screenshots
-![Credit Summary](Credit_Page1.png)  
+![Credit Summary](https://github.com/Scottm95/credit-monitoring-sql-powerbi/blob/main/CreditPage1.PNG)  
 ![Appeals & Failures](Credit_Page2.png)
 
 
@@ -55,5 +55,6 @@ The following insights are based on an **unfiltered** view of the full dataset. 
 - 7.02% of credits were inaccurate
 - The majority of appeals have been overturned (69.35%)
 - Most common failure reason: 'Credit provided when no credit was due' 
+
 
 > Use filters (e.g. month, year, operation) to explore specific trends
