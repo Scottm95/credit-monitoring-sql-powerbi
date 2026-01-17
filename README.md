@@ -37,7 +37,7 @@ Power BI dashboard analysing internal credit audit data to monitor credit accura
 
 ## Screenshots
 ![Credit Summary](https://github.com/Scottm95/credit-monitoring-sql-powerbi/blob/main/CreditPage1.PNG)  
-![Appeals & Failures](Credit_Page2.png)
+![Appeals & Failures](https://github.com/Scottm95/credit-monitoring-sql-powerbi/blob/main/CreditPage2.PNG)
 
 
 ## Files
@@ -58,3 +58,4 @@ The following insights are based on an **unfiltered** view of the full dataset. 
 
 
 > Use filters (e.g. month, year, operation) to explore specific trends
+
