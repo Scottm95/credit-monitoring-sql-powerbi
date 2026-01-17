@@ -41,7 +41,6 @@ Power BI dashboard analysing internal credit audit data to monitor credit accura
 
 
 ## Files
-- `Credit Monitoring 2025.pbix` – Power BI report (DAX measures + visuals)
 - `Credit Monitoring - SQL.sql` – SQL cleaning/transformation steps (SQLite)
 - `Credit Monitoring July 25 Cleaned.csv` – cleaned dataset loaded to Power BI
 - `Credit_Page1.png` / `Credit_Page2.png` – report screenshots
@@ -58,4 +57,5 @@ The following insights are based on an **unfiltered** view of the full dataset. 
 
 
 > Use filters (e.g. month, year, operation) to explore specific trends
+
 
